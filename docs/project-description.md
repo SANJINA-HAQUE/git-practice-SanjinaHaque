@@ -10,3 +10,5 @@ This project was created to practice Git and GitHub workflows.
 - Repository creation and commits
 - Feature branches and merging
 - Pushing to GitHub
+
+Last updated during Git practice assignment.
