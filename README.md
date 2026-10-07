@@ -2,6 +2,11 @@
 
 **Author:** Sanjina Haque
 
-## What this project does
-This project is a simple Python program that prints my name and today's date.
-It is used to practice Git and GitHub: commits, branches, merging, and pushing.
+## Description
+A simple Python program that prints my name and today's date, plus basic calculator functions.
+
+## Project Structure
+## How to Run
+```bash
+python3 src/main.py
+```
