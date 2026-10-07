@@ -1,0 +1,7 @@
+# Practice Project
+
+**Author:** Sanjina Haque
+
+## What this project does
+This project is a simple Python program that prints my name and today's date.
+It is used to practice Git and GitHub: commits, branches, merging, and pushing.
